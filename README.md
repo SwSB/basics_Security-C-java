@@ -1,2 +1,3 @@
 # basics_Security
-보안 기초에 대한 내용 정리 
+**Basic concepts of security have been summarized**<br/>
+**The subject is University Software Convergence major, and after failing the midterm exam, I'm using GitHub to ace the final exam **
